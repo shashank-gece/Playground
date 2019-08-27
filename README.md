@@ -1,2 +1,2 @@
-#Git_Plyground
+#GitPlayground
 This is playground for learning GIT
